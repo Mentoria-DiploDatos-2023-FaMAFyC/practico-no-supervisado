@@ -1,4 +1,4 @@
-# Practico 2 - Analisis no supervisado
+# Practico 3 - Analisis no supervisado
 Consignas: Dentro del directorio notebooks
 
 Para la entrega de este practico deben subir un notebook con el trabajo realizado en el directorio notebooks, especificando el numero de grupo.
